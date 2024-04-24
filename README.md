@@ -21,8 +21,9 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 
 Here is the list of challenges we are solving and the student who solves.
 * [Inspect HTML](https://play.picoctf.org/practice?category=1&page=2): [Tamar Ayache](https://github.com/tamar-ayache)
-* [Unminify](writeups/web-exploitation/Unminify): Malak Aburamila
+* Unminify: Malak Aburamila
 
 ## Web exploitation
 *  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
+* [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
 
