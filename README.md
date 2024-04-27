@@ -21,6 +21,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 
 Here is the list of challenges we are solving and the student who solves.
 * [Inspect HTML](https://play.picoctf.org/practice?category=1&page=2): [Tamar Ayache](https://github.com/tamar-ayache)
+* [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 
 ## Web exploitation
 *  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
