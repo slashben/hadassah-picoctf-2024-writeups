@@ -24,4 +24,4 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
 *  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
-
+*  dont-use-cliet-side: Emuna Vinograd
