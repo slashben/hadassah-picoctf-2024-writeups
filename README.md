@@ -22,7 +22,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
-*  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
+* Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 * Inspect HTML: [Tamar Ayache](https://github.com/tamar-ayache)
 * Forbidden Paths: [Hod Vaknin](https://github.com/hodvak)
 
