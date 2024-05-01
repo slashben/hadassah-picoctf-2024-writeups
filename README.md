@@ -22,9 +22,11 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
+
 * Inspect HTML - [Tamar Ayache](https://github.com/tamar-ayache)
 * Local Authority - [Hadar Liel Harush](https://github.com/HadarLiel)
 * [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
 * [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
 * SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
+* Forbidden Paths: [Hod Vaknin](https://github.com/hodvak)
