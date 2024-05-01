@@ -27,3 +27,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
 * [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
+* SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
