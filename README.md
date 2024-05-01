@@ -20,9 +20,10 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 # Who is doing what?
 
 Here is the list of challenges we are solving and the student who solves.
-* [Inspect HTML](https://play.picoctf.org/practice?category=1&page=2): [Tamar Ayache](https://github.com/tamar-ayache)
-* [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
 
 ## Web exploitation
-*  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
-
+* Inspect HTML - [Tamar Ayache](https://github.com/tamar-ayache)
+* Local Authority - [Hadar Liel Harush](https://github.com/HadarLiel)
+* [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
+* [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
+* [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
