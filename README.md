@@ -30,3 +30,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
 * SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
 * Forbidden Paths: [Hod Vaknin](https://github.com/hodvak)
+* [MatchTheRegex](https://play.picoctf.org/practice?category=1&page=2): Shaked Ben Melech
