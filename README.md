@@ -22,6 +22,14 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 Here is the list of challenges we are solving and the student who solves.
 
 ## Web exploitation
-*  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
+
 * Inspect HTML - [Tamar Ayache](https://github.com/tamar-ayache)
 * Local Authority - [Hadar Liel Harush](https://github.com/HadarLiel)
+* [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
+* [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
+* [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
+* SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
+* Forbidden Paths: [Hod Vaknin](https://github.com/hodvak)
+* [MatchTheRegex](https://play.picoctf.org/practice?category=1&page=2): Shaked Ben Melech
+* [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
+*  dont-use-cliet-side: Emuna Vinograd
