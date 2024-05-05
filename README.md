@@ -33,3 +33,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [MatchTheRegex](https://play.picoctf.org/practice?category=1&page=2): Shaked Ben Melech
 * [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 *  dont-use-cliet-side: Emuna Vinograd
+*  [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
+  
