@@ -20,8 +20,18 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 # Who is doing what?
 
 Here is the list of challenges we are solving and the student who solves.
-* [Inspect HTML](https://play.picoctf.org/practice?category=1&page=2): [Tamar Ayache](https://github.com/tamar-ayache)
 
 ## Web exploitation
-*  Example entry: [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 
+* Inspect HTML - [Tamar Ayache](https://github.com/tamar-ayache)
+* Local Authority - [Hadar Liel Harush](https://github.com/HadarLiel)
+* [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
+* [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
+* [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
+* SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
+* Forbidden Paths: [Hod Vaknin](https://github.com/hodvak)
+* [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/): Shaked Ben Melech
+* [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
+* [dont-use-client-side](writeups/web-exploitation/dont-use-client-side): Emuna Vinograd
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
+* [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
