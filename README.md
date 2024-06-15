@@ -34,3 +34,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [dont-use-client-side](writeups/web-exploitation/dont-use-client-side): Emuna Vinograd
 *  [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
+
+## Cryptography
+
+* [13](https://play.picoctf.org/practice/challenge/62?category=2&page=1): Emuna Vinograd
