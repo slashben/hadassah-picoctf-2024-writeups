@@ -42,3 +42,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [Vigenere](writeups/web-exploitation/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
 
 ## Binary Exploitation
+
+* [two-sum](writeups/web-exploitation/two-sum/) - [Shahar Asher](https://github.com/ShaharAshe)
