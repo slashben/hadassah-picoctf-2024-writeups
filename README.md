@@ -40,3 +40,6 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography 
 
 * caesar - [Tamar Ayache](https://github.com/tamar-ayache)
+
+## Binary Exploitation
+* CVE-XXXX-XXXX  - [Tamar Ayache](https://github.com/tamar-ayache)
