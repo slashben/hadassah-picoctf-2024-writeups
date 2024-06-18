@@ -36,3 +36,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
 * [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
+
+## Cryptography
+
+* [13]([https://play.picoctf.org/practice/challenge/4?category=1&page=1](https://play.picoctf.org/practice/challenge/62?category=2&page=1)): [Eyal Makdushi](https://github.com/eyalmakdushi)
