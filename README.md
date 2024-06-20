@@ -45,7 +45,8 @@ Here is the list of challenges we are solving and the student who solves.
 ## Binary Exploitation
 
 * [two-sum](writeups/web-exploitation/two-sum/) - [Shahar Asher](https://github.com/ShaharAshe)
-* [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&page=3) : Shaked Ben Melech
+* [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&page=3) - Shaked Ben Melech
 * caesar - [Tamar Ayache](https://github.com/tamar-ayache)
 * CVE-XXXX-XXXX  - [Tamar Ayache](https://github.com/tamar-ayache)
-* [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
+* [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) - Shaked Ben Melech
+* [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
