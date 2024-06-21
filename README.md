@@ -42,6 +42,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
 * [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
 * [Vigenere](writeups/web-exploitation/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
+* [Easy1](https://play.picoctf.org/practice/challenge/43?search=Easy1) - [Hadar Liel Harush](https://github.com/hadarliel)
 * [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&page=2): [Eyal Makdushi](https://github.com/eyalmakdushi)
 
 ## Binary Exploitation
