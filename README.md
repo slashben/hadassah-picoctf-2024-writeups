@@ -33,12 +33,12 @@ Here is the list of challenges we are solving and the student who solves.
 * [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/): Shaked Ben Melech
 * [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [dont-use-client-side](writeups/web-exploitation/dont-use-client-side): Emuna Vinograd
-
+* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
 ## Cryptography
 
 * caesar - [Tamar Ayache](https://github.com/tamar-ayache)
 * [13](https://play.picoctf.org/practice/challenge/62?category=2&page=1): Emuna Vinograd
-* [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
+* [basic-mod1](https://play.picoctf.org/practice/challenge/253?category=2&page=2): Afek Sulimani
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
 * [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
 * [Vigenere](writeups/web-exploitation/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
