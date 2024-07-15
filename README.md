@@ -28,7 +28,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [Includes](writeups/web-exploitation/Includes/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Unminify](writeups/web-exploitation/Unminify) - Malak Aburamila
 * [login](https://play.picoctf.org/practice?category=1&page=2): Noga Levy
-* SOAP: [Aviya Ben David](https://github.com/aviya-ben-david) 
+* SOAP: [Aviya Ben David](https://github.com/aviya-ben-david)
+* [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
 * [Forbidden Paths](writeups/web-exploitation/Forbidden%20Paths/): [Hod Vaknin](https://github.com/hodvak)
 * [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/): Shaked Ben Melech
 * [Where are the robots](https://play.picoctf.org/practice/challenge/4?category=1&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
@@ -40,7 +41,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [13](https://play.picoctf.org/practice/challenge/62?category=2&page=1): Emuna Vinograd
 * [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
-* [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
+* [rail-fence] (https://play.picoctf.org/practice?category=2&page=1): Mohamad Ashkar
 * [Vigenere](writeups/web-exploitation/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Easy1](https://play.picoctf.org/practice/challenge/43?search=Easy1) - [Hadar Liel Harush](https://github.com/hadarliel)
 * [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&page=2): [Eyal Makdushi](https://github.com/eyalmakdushi)
@@ -50,6 +51,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [two-sum](writeups/web-exploitation/two-sum/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&page=3) : Shaked Ben Melech
 * CVE-XXXX-XXXX  - [Tamar Ayache](https://github.com/tamar-ayache)
+* [RPS] (https://play.picoctf.org/practice/challenge/293?category=6&page=1):Mohamad Ashkar
 * [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
 * [Unsubscriptions Are Free](https://play.picoctf.org/practice/challenge/187?category=6&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
