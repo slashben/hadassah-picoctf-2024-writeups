@@ -1,4 +1,4 @@
-# heap 1 
+# rail-fence
 
 This is the write-up for the challenge "reil-fence" challenge in PicoCTF
 
