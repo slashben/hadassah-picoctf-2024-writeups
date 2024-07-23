@@ -37,7 +37,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography
 
 * caesar - [Tamar Ayache](https://github.com/tamar-ayache)
-* [13](https://play.picoctf.org/practice/challenge/62?category=2&page=1): Emuna Vinograd
+* [13](writeups/cryptography/13): Emuna Vinograd
 * [logon](https://play.picoctf.org/practice/challenge/46?category=1&page=1): Afek Sulimani
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
 * [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
@@ -53,3 +53,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
 * [Unsubscriptions Are Free](https://play.picoctf.org/practice/challenge/187?category=6&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
+* [BabyGame01](writeups/binary-exploitation/BabyGame01): Emuna Vinograd
