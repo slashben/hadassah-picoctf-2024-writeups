@@ -44,6 +44,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Vigenere](writeups/web-exploitation/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Easy1](https://play.picoctf.org/practice/challenge/43?search=Easy1) - [Hadar Liel Harush](https://github.com/hadarliel)
 * [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&page=2): [Eyal Makdushi](https://github.com/eyalmakdushi)
+* [mod 26](https://play.picoctf.org/practice/challenge/144?category=2&page=2): [Mohamad Ashkar]
 
 ## Binary Exploitation
 
@@ -53,3 +54,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
 * [Unsubscriptions Are Free](https://play.picoctf.org/practice/challenge/187?category=6&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
+* [basic-file-exploit](https://play.picoctf.org/practice/challenge/252?category=6&page=2) : Mohamad Ashkar
