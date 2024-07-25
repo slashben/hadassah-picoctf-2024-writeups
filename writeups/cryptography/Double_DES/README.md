@@ -1,6 +1,6 @@
 # Double DES #
 This is a write-up for [Double Des](https://play.picoctf.org/practice/challange/140).  
-`Heap 3` rated medium
+`Double Des` rated medium
 The given files are at the `file` directory.  
 
 ## The Challenge ##
