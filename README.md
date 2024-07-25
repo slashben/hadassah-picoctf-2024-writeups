@@ -53,3 +53,4 @@ Here is the list of challenges we are solving and the student who solves.
 * [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
 * [Unsubscriptions Are Free](https://play.picoctf.org/practice/challenge/187?category=6&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
+* [RPS](https://play.picoctf.org/practice/challenge/293?bookmarked=0&category=6&page=1&search=&solved=0) : Afek Sulimani
