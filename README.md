@@ -44,6 +44,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Vigenere](writeups/cryptography/Vigenere/) - [Shahar Asher](https://github.com/ShaharAshe)
 * [Easy1](https://play.picoctf.org/practice/challenge/43?search=Easy1) - [Hadar Liel Harush](https://github.com/hadarliel)
 * [substitution0](https://play.picoctf.org/practice/challenge/307?category=2&page=2): [Eyal Makdushi](https://github.com/eyalmakdushi)
+* [rail-fence](writeups/cryptography/rail-fence) - Malak Aburamila
 * [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&page=3) : Shaked Ben Melech
 * Sum-O-Primes - [Hod Vaknin](https://github.com/hodvak)
 
@@ -54,5 +55,5 @@ Here is the list of challenges we are solving and the student who solves.
 * [buffer overflow 0](https://play.picoctf.org/practice/challenge/257?category=6&page=1&solved=0) : Shaked Ben Melech
 * [Unsubscriptions Are Free](https://play.picoctf.org/practice/challenge/187?category=6&page=1): [Eyal Makdushi](https://github.com/eyalmakdushi)
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
+* [basic-file-exploit](writeups/binary-exploitation/basic-file-exploit) - Malak Aburamila
 * heap2 - [Hod Vaknin](https://github.com/hodvak)
-
