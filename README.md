@@ -57,3 +57,6 @@ Here is the list of challenges we are solving and the student who solves.
 * [clutter-overflow](https://play.picoctf.org/practice/challenge/216?search=clutter-overflow) - [Hadar Liel Harush](https://github.com/hadarliel)
 * [basic-file-exploit](writeups/binary-exploitation/basic-file-exploit) - Malak Aburamila
 * heap2 - [Hod Vaknin](https://github.com/hodvak)
+  
+## Reverse Engineering
+*[Tap into Hash](https://play.picoctf.org/practice/challenge/466?originalEvent=74&page=3&retired=0) - [Maya Avezbakiev](https://github.com/MaAvza)
