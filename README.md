@@ -36,6 +36,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [dont-use-client-side](writeups/web-exploitation/dont-use-client-side): Emuna Vinograd
 * [It is my Birthday](https://play.picoctf.org/practice?category=1&page=1): [Mohamad Ashkar]
 * [findme](https://play.picoctf.org/practice/challenge/349?category=1&page=2): Tali Kalev
+* [Cookie Monster Secret Recipe](https://play.picoctf.org/practice/challenge/469?category=1&difficulty=1&page=1): Anael Zateikin
 
 ## Cryptography
 
