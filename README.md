@@ -47,6 +47,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [rail-fence](writeups/cryptography/rail-fence) - Malak Aburamila
 * [ReadMyCert](https://play.picoctf.org/practice/challenge/367?category=2&page=3) : Shaked Ben Melech
 * Sum-O-Primes - [Hod Vaknin](https://github.com/hodvak)
+* rsa_oracle - [basharmasalha] (https://play.picoctf.org/practice/challenge/422?category=2&difficulty=2&page=1)
+
 
 ## Binary Exploitation
 
