@@ -21,6 +21,7 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 
 Here is the list of challenges we are solving and the student who solves.
 
+.
 ## Web exploitation
 
 * Inspect HTML - [Tamar Ayache](https://github.com/tamar-ayache)
