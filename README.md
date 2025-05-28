@@ -20,6 +20,8 @@ See [here](https://github.com/slashben/hadassah-picoctf-2023-writeups) how it wo
 # Who is doing what?
 
 Here is the list of challenges we are solving and the student who solves.
+Easy1 - [Yael Hubara](https://play.picoctf.org/practice/challenge/43?category=2&difficulty=2&page=3)
+basic-mod1 - [Yael Hubara](https://play.picoctf.org/practice/challenge/253?category=2&difficulty=2&page=2)
 
 ## Web exploitation
 
